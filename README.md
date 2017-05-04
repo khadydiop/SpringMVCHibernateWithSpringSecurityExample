@@ -1,0 +1,4 @@
+# SpringMVCHibernateWithSpringSecurityExample
+SpringMVCHibernateWithSpringSecurityExample
+login=sam
+pass=abc125
