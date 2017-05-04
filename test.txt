@@ -1,0 +1,2 @@
+login=sam
+pass=abc125
